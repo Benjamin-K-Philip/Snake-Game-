@@ -24,4 +24,10 @@ Keyboard inputs (pyxel.KEY_UP, KEY_DOWN, etc.) are polled during the update phas
 ---
 
 
-
+## Features
+  - Continuous grid-based movement with arrow key controls.
+  - Dynamic length scaling upon consuming randomized targets.
+  - Real-time collision detection for screen borders and self-intersection.
+  - Session-persistent "Best Score" tracking across restarts.
+  - Dedicated Game Over screen with a quick-restart keybinding (R).
+  - Safe target generation ensuring apples never spawn inside the snake's body.
