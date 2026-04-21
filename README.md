@@ -47,3 +47,13 @@ Keyboard inputs (pyxel.KEY_UP, KEY_DOWN, etc.) are polled during the update phas
   - **Rendering Methods:** draw() and draw_grid() which are strictly responsible for painting visual pixels, text, and shapes to the screen based on the current logical state of the arrays and variables.
 
  ---
+
+
+## Output 
+<img width="1366" height="718" alt="Screenshot (7898)" src="https://github.com/user-attachments/assets/88e67563-4b7a-42e3-8dcd-38e929e54473" />
+<br>
+<img width="1366" height="718" alt="Screenshot (7899)" src="https://github.com/user-attachments/assets/a008b858-93f1-4534-be20-c9005b3dadde" />
+<br>
+<img width="1366" height="718" alt="Screenshot (7900)" src="https://github.com/user-attachments/assets/70ff009a-03ac-4e3f-bacf-db74455112df" />
+<br>
+<img width="1366" height="718" alt="Screenshot (7758)" src="https://github.com/user-attachments/assets/08aef6c6-a015-41de-90e7-5e9e9f94758b" />
