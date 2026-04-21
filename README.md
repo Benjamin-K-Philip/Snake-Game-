@@ -57,3 +57,8 @@ Keyboard inputs (pyxel.KEY_UP, KEY_DOWN, etc.) are polled during the update phas
 <img width="1366" height="718" alt="Screenshot (7900)" src="https://github.com/user-attachments/assets/70ff009a-03ac-4e3f-bacf-db74455112df" />
 <br>
 <img width="1366" height="718" alt="Screenshot (7758)" src="https://github.com/user-attachments/assets/08aef6c6-a015-41de-90e7-5e9e9f94758b" />
+
+---
+
+## Demonstration - How the Game Works
+<img width="800" height="421" alt="GIF File-Snake and Apple Game" src="https://github.com/user-attachments/assets/f6a7325b-fa13-435a-9374-67e381d3c2db" />
